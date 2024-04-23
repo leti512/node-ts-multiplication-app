@@ -2,3 +2,7 @@ node_modules/
 *.log
 dist/
 outputs/
+
+custom-outputs/
+test-destination/
+coverge/
